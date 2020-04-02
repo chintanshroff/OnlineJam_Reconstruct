@@ -2275,3 +2275,352 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.02-15.41.43:687][493]SourceControl: [master 8303c20] .
 [2020.04.02-15.41.43:687][493]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.04.02-15.41.43:700][493]SourceControl: Commited [master 8303c20] ..
+[2020.04.02-15.49.38:695][750]LogTexture: Display: Building textures: T_Office_Chair_M (AutoDXT, 4096X4096)
+[2020.04.02-15.49.38:696][750]LogTexture: Display: Building textures: T_Classic_chair_m_r_ao (AutoDXT, 2048X2048)
+[2020.04.02-15.49.46:387][750]LogTexture: Display: Building textures: T_Office_Chair_M_R_AO (AutoDXT, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Classic_Cupboard_A (AutoDXT, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Military_Bed_Mattress_R_AO (AutoDXT, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Office_Chair_N (BC5, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Classic_Cupboard_N (BC5, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Military_Bed_Mattress_N (BC5, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Military_Bed_Mattress_A (AutoDXT, 4096X4096)
+[2020.04.02-15.49.46:388][750]LogTexture: Display: Building textures: T_Military_Bed_N (BC5, 4096X4096)
+[2020.04.02-15.49.46:605][750]LogTexture: Display: Building textures: T_Classic_chair_n (BC5, 2048X2048)
+[2020.04.02-15.49.47:696][750]LogTexture: Display: Building textures: T_Classic_chair_a (AutoDXT, 2048X2048)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: T_Military_Bed_M_R (AutoDXT, 4096X4096)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: T_Military_Bed_A (AutoDXT, 4096X4096)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: T_Wood_R (AutoDXT, 1024X1024)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: T_Wood_N (BC5, 1024X1024)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: T_Classic_Leather_Armchair_a (AutoDXT, 2048X2048)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: T_Bathtub_N (BC5, 4096X4096)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.04.02-15.49.55:191][750]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.02-15.49.55:227][750]LogMaterial: Display: Missing cached shader map for material M_Classic_chair, compiling. 
+[2020.04.02-15.49.55:554][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.04.02-15.49.55:554][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.04.02-15.49.55:554][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.04.02-15.49.55:554][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.02-15.49.55:554][750]LogStaticMesh: Building static mesh SM_Classic_chair...
+[2020.04.02-15.49.55:717][750]LogStaticMesh: Built static mesh [0.15s] /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair
+[2020.04.02-15.49.56:165][750]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.04.02-15.49.56:165][750]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.04.02-15.49.56:165][750]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X512)
+[2020.04.02-15.49.56:165][750]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2020.04.02-15.49.56:165][750]LogStaticMesh: Building static mesh SM_Classic_Cupboard_Door_Right...
+[2020.04.02-15.49.56:169][750]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Right.SM_Classic_Cupboard_Door_Right
+[2020.04.02-15.49.56:178][750]LogStaticMesh: Building static mesh SM_Classic_Cupboard_Drawer...
+[2020.04.02-15.49.56:182][750]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Drawer.SM_Classic_Cupboard_Drawer
+[2020.04.02-15.49.56:190][750]LogStaticMesh: Building static mesh SM_Classic_Cupboard_Door_Left...
+[2020.04.02-15.49.56:193][750]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Left.SM_Classic_Cupboard_Door_Left
+[2020.04.02-15.49.57:262][750]LogTexture: Display: Building textures: T_TV_M (AutoDXT, 1024X1024)
+[2020.04.02-15.49.57:262][750]LogTexture: Display: Building textures: T_Bathtub_M (AutoDXT, 4096X4096)
+[2020.04.02-15.49.57:262][750]LogTexture: Display: Building textures: T_Toilet_M (AutoDXT, 1024X1024)
+[2020.04.02-15.49.57:262][750]LogTexture: Display: Building textures: T_Classic_Commode_A (AutoDXT, 4096X4096)
+[2020.04.02-15.49.57:262][750]LogTexture: Display: Building textures: T_Toilet_N (BC5, 4096X4096)
+[2020.04.02-15.50.01:415][750]LogTexture: Display: Building textures: T_Classic_Commode_M_R_AO (AutoDXT, 4096X4096)
+[2020.04.02-15.50.01:415][750]LogTexture: Display: Building textures: T_Classic_Commode_N (BC5, 4096X4096)
+[2020.04.02-15.50.01:415][750]LogTexture: Display: Building textures: T_Wood_A (AutoDXT, 1024X1024)
+[2020.04.02-15.50.01:435][750]LogMaterial: Display: Missing cached shader map for material M_Toilet, compiling. 
+[2020.04.02-15.50.01:583][750]LogStaticMesh: Building static mesh SM_Toilet...
+[2020.04.02-15.50.01:649][750]LogStaticMesh: Built static mesh [0.07s] /Game/FreeFurniturePack/Meshes/SM_Toilet.SM_Toilet
+[2020.04.02-15.50.03:407][750]LogTexture: Display: Building textures: T_NormalPlaceHolder (BC5, 128X128)
+[2020.04.02-15.50.03:407][750]LogTexture: Display: Building textures: T_Classic_table_n (BC5, 2048X2048)
+[2020.04.02-15.50.03:407][750]LogTexture: Display: Building textures: T_Classic_table_m_r_ao (AutoDXT, 2048X2048)
+[2020.04.02-15.50.03:407][750]LogMaterial: Display: Missing cached shader map for material M_Modern_Table_top, compiling. 
+[2020.04.02-15.50.03:450][750]LogMaterial: Display: Missing cached shader map for material M_Modern_Table_bottom, compiling. 
+[2020.04.02-15.50.03:545][750]LogStaticMesh: Building static mesh SM_Modern_Table...
+[2020.04.02-15.50.03:601][750]LogTexture: Display: Building textures: T_Classic_table_a (AutoDXT, 2048X2048)
+[2020.04.02-15.50.03:601][750]LogStaticMesh: Built static mesh [0.06s] /Game/FreeFurniturePack/Meshes/SM_Modern_Table.SM_Modern_Table
+[2020.04.02-15.50.03:620][750]LogMaterial: Display: Missing cached shader map for material M_Office_Chair, compiling. 
+[2020.04.02-15.50.03:842][750]LogStaticMesh: Building static mesh SM_Modern_Office_chair...
+[2020.04.02-15.50.03:958][750]LogStaticMesh: Built static mesh [0.12s] /Game/FreeFurniturePack/Meshes/SM_Modern_Office_chair.SM_Modern_Office_chair
+[2020.04.02-15.50.16:760][750]LogTexture: Display: Building textures: T_Round_table_n (BC5, 2048X2048)
+[2020.04.02-15.50.16:760][750]LogTexture: Display: Building textures: T_Round_table_m_r_ao (AutoDXT, 2048X2048)
+[2020.04.02-15.50.16:760][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.04.02-15.50.16:760][750]LogTexture: Display: Building textures: T_Round_table_a (AutoDXT, 2048X2048)
+[2020.04.02-15.50.16:760][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2020.04.02-15.50.16:760][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.04.02-15.50.16:760][750]LogTexture: Display: Building textures: T_Leather_N (BC5, 1024X1024)
+[2020.04.02-15.50.16:760][750]LogTexture: Display: Building textures: T_Leather_armchair_m_r_ao (AutoDXT, 2048X2048)
+[2020.04.02-15.50.16:760][750]LogTexture: Display: Building textures: T_Classic_Leather_Armchair_n (BC5, 2048X2048)
+[2020.04.02-15.50.16:760][750]LogMaterial: Display: Missing cached shader map for material M_Military_Bed_Matress_with_Blanket, compiling. 
+[2020.04.02-15.50.18:620][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 90
+[2020.04.02-15.50.18:620][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2020.04.02-15.50.18:620][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2020.04.02-15.50.18:620][750]LogMaterial: Display: Missing cached shader map for material M_Military_Bed_Grid, compiling. 
+[2020.04.02-15.50.18:762][750]LogMaterial: Display: Missing cached shader map for material M_Military_Bed, compiling. 
+[2020.04.02-15.50.19:032][750]LogStaticMesh: Building static mesh SM_Military_Bed_2...
+[2020.04.02-15.50.19:168][750]LogStaticMesh: Built static mesh [0.14s] /Game/FreeFurniturePack/Meshes/SM_Military_Bed_2.SM_Military_Bed_2
+[2020.04.02-15.50.19:290][750]LogStaticMesh: Building static mesh SM_Classic_Commode_2...
+[2020.04.02-15.50.19:340][750]LogStaticMesh: Built static mesh [0.05s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_2.SM_Classic_Commode_2
+[2020.04.02-15.50.19:373][750]LogStaticMesh: Building static mesh SM_Classic_Leather_Armchair...
+[2020.04.02-15.50.19:397][750]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Classic_Leather_Armchair.SM_Classic_Leather_Armchair
+[2020.04.02-15.50.19:414][750]LogMaterial: Display: Missing cached shader map for material M_Classic_Leather_armchair, compiling. 
+[2020.04.02-15.50.19:658][750]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 243
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 242
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 241
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 240
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 239
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 238
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 237
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 236
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 235
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 234
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 233
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 232
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 231
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 230
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 229
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 228
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 227
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 226
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 225
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 224
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 223
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 222
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 221
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 219
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 218
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 217
+[2020.04.02-15.50.31:242][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 216
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 215
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 214
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 213
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 212
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 211
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 209
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 208
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 207
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 206
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 205
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 204
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 203
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 202
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 200
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 199
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 198
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 197
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 195
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 194
+[2020.04.02-15.50.31:243][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 193
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 192
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 191
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 190
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 189
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 188
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 187
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 186
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 185
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 184
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 183
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 182
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 181
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 180
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 179
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 178
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 177
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 176
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 175
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 174
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 173
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 172
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 169
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 168
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 167
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 166
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 165
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 164
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 163
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 162
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 161
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 160
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 159
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 158
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 157
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 156
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 155
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 153
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 152
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 151
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 141
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 131
+[2020.04.02-15.50.31:244][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 121
+[2020.04.02-15.50.31:278][750]LogStaticMesh: Building static mesh SM_Classic_Commode_Drawer_1...
+[2020.04.02-15.50.31:282][750]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_1.SM_Classic_Commode_Drawer_1
+[2020.04.02-15.50.31:293][750]LogStaticMesh: Building static mesh SM_Classic_Commode_Drawer_2...
+[2020.04.02-15.50.31:305][750]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_2.SM_Classic_Commode_Drawer_2
+[2020.04.02-15.50.31:358][750]LogStaticMesh: Building static mesh SM_Classic_Commode...
+[2020.04.02-15.50.31:394][750]LogStaticMesh: Built static mesh [0.04s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2020.04.02-15.50.31:463][750]LogStaticMesh: Building static mesh SM_Classic_Cupboard...
+[2020.04.02-15.50.31:495][750]LogStaticMesh: Built static mesh [0.03s] /Game/FreeFurniturePack/Meshes/SM_Classic_Cupboard.SM_Classic_Cupboard
+[2020.04.02-15.50.31:867][750]LogStaticMesh: Building static mesh SM_Bathtub...
+[2020.04.02-15.50.32:278][750]LogStaticMesh: Built static mesh [0.41s] /Game/FreeFurniturePack/Meshes/SM_Bathtub.SM_Bathtub
+[2020.04.02-15.50.32:396][750]LogStaticMesh: Building static mesh SM_Bed_Lamp_2...
+[2020.04.02-15.50.32:409][750]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2
+[2020.04.02-15.50.32:444][750]LogStaticMesh: Building static mesh SM_Classic_Round_Table...
+[2020.04.02-15.50.32:481][750]LogStaticMesh: Built static mesh [0.04s] /Game/FreeFurniturePack/Meshes/SM_Classic_Round_Table.SM_Classic_Round_Table
+[2020.04.02-15.50.32:530][750]LogStaticMesh: Building static mesh SM_Classic_table...
+[2020.04.02-15.50.32:591][750]LogStaticMesh: Built static mesh [0.06s] /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2020.04.02-15.50.32:649][750]LogStaticMesh: Building static mesh SM_Commode...
+[2020.04.02-15.50.32:712][750]LogStaticMesh: Built static mesh [0.06s] /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2020.04.02-15.50.32:738][750]LogStaticMesh: Building static mesh SM_TV...
+[2020.04.02-15.50.32:746][750]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV
+[2020.04.02-15.50.32:806][750]LogMaterial: Display: Missing cached shader map for material M_Classic_Cupboard, compiling. 
+[2020.04.02-15.50.32:834][750]LogMaterial: Display: Missing cached shader map for material M_Bathtub, compiling. 
+[2020.04.02-15.50.32:875][750]LogMaterial: Display: Missing cached shader map for material M_Bed_Lamp_2, compiling. 
+[2020.04.02-15.50.32:877][750]LogMaterial: Warning: D:\Unreal Projects\OnlineJam_Reconstruct\Reconstruct\Content\FreeFurniturePack\Materials\M_Bed_Lamp_2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.02-15.50.32:877][750]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.02-15.50.32:885][750]LogMaterial: Display: Missing cached shader map for material M_Classic_Commode, compiling. 
+[2020.04.02-15.50.32:973][750]LogMaterial: Display: Missing cached shader map for material M_TV, compiling. 
+[2020.04.02-15.50.33:006][750]LogMaterial: Display: Missing cached shader map for material M_Commode, compiling. 
+[2020.04.02-15.50.33:042][750]LogMaterial: Display: Missing cached shader map for material M_Chrome, compiling. 
+[2020.04.02-15.50.33:078][750]LogMaterial: Display: Missing cached shader map for material M_Classic_table, compiling. 
+[2020.04.02-15.50.33:114][750]LogMaterial: Display: Missing cached shader map for material M_Round_table, compiling. 
+[2020.04.02-15.50.33:179][750]LogAIModule: Creating AISystem for world LVL_One_StartingPoint
+[2020.04.02-15.50.33:349][750]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/LVL_One_StartingPoint.LVL_One_StartingPoint
+[2020.04.02-15.50.33:422][750]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2020.04.02-15.50.35:818][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 294
+[2020.04.02-15.50.36:317][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 284
+[2020.04.02-15.50.36:655][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 274
+[2020.04.02-15.50.37:381][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 264
+[2020.04.02-15.50.42:059][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 254
+[2020.04.02-15.50.42:129][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 244
+[2020.04.02-15.50.49:939][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 234
+[2020.04.02-15.50.56:100][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 224
+[2020.04.02-15.51.03:191][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 214
+[2020.04.02-15.51.06:594][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 204
+[2020.04.02-15.51.08:559][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 194
+[2020.04.02-15.51.10:337][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 184
+[2020.04.02-15.51.13:520][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2020.04.02-15.51.14:954][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 164
+[2020.04.02-15.51.15:078][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2020.04.02-15.51.16:004][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2020.04.02-15.51.19:433][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2020.04.02-15.51.21:230][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2020.04.02-15.51.21:712][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2020.04.02-15.51.22:062][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2020.04.02-15.51.25:905][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 94
+[2020.04.02-15.51.26:772][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.04.02-15.51.27:107][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2020.04.02-15.51.28:441][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.04.02-15.51.32:231][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.04.02-15.51.32:514][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.04.02-15.51.33:086][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.04.02-15.51.34:798][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.04.02-15.51.37:324][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.02-15.51.38:449][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.02-15.51.38:876][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.02-15.51.38:911][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.02-15.51.40:159][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.04.02-15.51.40:532][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.02-15.51.40:797][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.02-15.54.12:991][750]LogSlate: Window 'Save Content' being destroyed
+[2020.04.02-15.54.13:561][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.04.02-15.54.14:174][750]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Saved/TopDownExampleMap0C4531F948241528CB7354B0597831B4.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.04.02-15.54.14:213][750]LogFileHelpers: Saving map 'TopDownExampleMap' took 1.082
+[2020.04.02-15.54.14:215][750]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/TopDownBP/Maps/LVL_One_StartingPoint.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-15.54.14:216][750]LightingResults: New page: Lighting Build
+[2020.04.02-15.54.14:217][750]LoadErrors: New page: Loading map: LVL_One_StartingPoint.umap
+[2020.04.02-15.54.14:218][750]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.54.14:218][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.54.14:218][750]MapCheck: New page: Map Check
+[2020.04.02-15.54.14:218][750]LightingResults: New page: Lighting Build
+[2020.04.02-15.54.14:264][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.02-15.54.14:897][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-15.54.14:948][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.02-15.54.14:978][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-15.54.14:978][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.04.02-15.54.14:978][750]LogFileHelpers: Loading map 'LVL_One_StartingPoint' took 0.765
+[2020.04.02-15.54.15:058][750]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.04.02-15.54.15:058][750]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.04.02-15.54.15:327][750]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.04.02-15.59.14:175][ 86]AssetReimport: New page: Outstanding source content changes 3:59:14 PM
+[2020.04.02-15.59.15:436][ 87]LogEditorFactories: Performing atomic reimport of [D:/Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.png]
+[2020.04.02-15.59.15:459][ 87]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.png)
+[2020.04.02-15.59.16:340][ 87]LogEditorFactories: -- imported successfully
+[2020.04.02-15.59.17:172][ 88]LogEditorFactories: Performing atomic reimport of [D:/Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.png]
+[2020.04.02-15.59.17:181][ 88]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.png)
+[2020.04.02-15.59.17:853][ 88]LogEditorFactories: -- imported successfully
+[2020.04.02-15.59.18:408][ 89]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Saved/Two_lane_solid_line_road_cracks_8A0CE0AC49C398D6FC613F956427B5B6.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.uasset'
+[2020.04.02-15.59.18:701][ 89]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Saved/Two_lane_solid_line_road_cracks_0D4ACEAB4E87B3FA37DED68CE780F28B.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.uasset'
+[2020.04.02-15.59.18:767][ 90]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.02-15.59.18:767][ 90]LogContentValidation: Display: Validating Texture2D /Game/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.Two_lane_solid_line_road_cracks_01_2K_Base_Color
+[2020.04.02-15.59.18:767][ 90]LogContentValidation: Display: Validating Texture2D /Game/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.Two_lane_solid_line_road_cracks_01_2K_Roughness
+[2020.04.02-15.59.21:720][255]AssetReimport: Reimported asset Two_lane_solid_line_road_cracks_01_2K_Base_Color from D:/Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.png.
+[2020.04.02-15.59.21:720][255]AssetReimport: Reimported asset Two_lane_solid_line_road_cracks_01_2K_Roughness from D:/Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.png.
+[2020.04.02-16.12.03:625][835]SourceControl: fatal: D:/Unreal install/UE_4.24/Engine/Content: 'D:/Unreal install/UE_4.24/Engine/Content' is outside repository
+[2020.04.02-16.12.09:474][835]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.02-16.12.11:905][835]LogSourceControl: commit successful: [master 6d6eb09] fixes
+[2020.04.02-16.12.12:049][835]SourceControl: [master 6d6eb09] fixes
+[2020.04.02-16.12.12:049][835]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.02-16.12.12:049][835]SourceControl:  create mode 100644 Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.uasset
+[2020.04.02-16.12.12:049][835]SourceControl:  create mode 100644 Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.uasset
+[2020.04.02-16.12.12:049][835]SourceControl:  create mode 100644 Reconstruct/Content/TopDownBP/Maps/LVL_One_StartingPoint.umap
+[2020.04.02-16.12.12:049][835]SourceControl:  create mode 100644 Reconstruct/Content/TopDownBP/Maps/LVL_One_StartingPoint_BuiltData.uasset
+[2020.04.02-16.12.12:067][835]SourceControl: Commited [master 6d6eb09] fixes.
+[2020.04.02-16.16.36:483][915]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.02-16.18.04:652][342]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.04.02-16.18.04:761][342]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.04.02-16.18.04:766][342]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-16.18.04:766][342]LightingResults: New page: Lighting Build
+[2020.04.02-16.18.04:766][342]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2020.04.02-16.18.04:768][342]LogWorld: UWorld::CleanupWorld for LVL_One_StartingPoint, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-16.18.04:768][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-16.18.04:768][342]MapCheck: New page: Map Check
+[2020.04.02-16.18.04:768][342]LightingResults: New page: Lighting Build
+[2020.04.02-16.18.05:220][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.04.02-16.18.05:515][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-16.18.05:559][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.04.02-16.18.05:589][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-16.18.05:589][342]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2020.04.02-16.18.05:589][342]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.825
+[2020.04.02-16.19.43:702][288]LogContentBrowser: Native class hierarchy updated for 'EnvironmentQueryEditor' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2020.04.02-16.19.44:362][289]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.04.02-16.19.46:736][426]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.04.02-16.19.46:749][426]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.04.02-16.20.27:986][ 96]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/VisionConeStuff/VisionCone.VisionCone
+[2020.04.02-16.23.25:614][938]LogAIModule: Creating AISystem for world LVL_One_StartingPoint
+[2020.04.02-16.23.25:627][938]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/LVL_One_StartingPoint.LVL_One_StartingPoint
+[2020.04.02-16.23.25:721][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.04.02-16.23.27:265][938]LogSlate: Window 'Save Content' being destroyed
+[2020.04.02-16.23.27:386][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VisionConeStuff/VisionCone" FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/VisionConeStuff/VisionCone.uasset" SILENT=true
+[2020.04.02-16.23.27:394][938]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Saved/VisionCone155A5127492C263A8FF1CF89370F43CF.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/VisionConeStuff/VisionCone.uasset'
+[2020.04.02-16.23.27:772][938]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/Reconstruct/Content/TopDownBP/Maps/LVL_One_StartingPoint.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-16.23.27:772][938]LightingResults: New page: Lighting Build
+[2020.04.02-16.23.27:773][938]LoadErrors: New page: Loading map: LVL_One_StartingPoint.umap
+[2020.04.02-16.23.27:773][938]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-16.23.27:774][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-16.23.27:774][938]MapCheck: New page: Map Check
+[2020.04.02-16.23.27:774][938]LightingResults: New page: Lighting Build
+[2020.04.02-16.23.27:844][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.02-16.23.28:272][938]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-16.23.28:319][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.02-16.23.28:351][938]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-16.23.28:352][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2020.04.02-16.23.28:352][938]LogFileHelpers: Loading map 'LVL_One_StartingPoint' took 0.582
+[2020.04.02-16.23.28:429][938]AssetCheck: New page: Asset Save: VisionCone
+[2020.04.02-16.23.28:429][938]LogContentValidation: Display: Validating EnvQuery /Game/VisionConeStuff/VisionCone.VisionCone
+[2020.04.02-16.23.38:991][563]AssetReimport: New page: Outstanding source content changes 4:23:38 PM
+[2020.04.02-16.23.39:080][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.04.02-16.23.41:671][563]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.02-16.23.42:128][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.04.02-16.23.42:169][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.04.02-16.23.42:225][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.04.02-16.23.42:265][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.02-16.23.42:536][563]SourceControl: Error: Updated 0 paths from the index
+[2020.04.02-16.23.42:729][563]SourceControl: rm 'Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Base_Color.uasset'
+[2020.04.02-16.23.42:729][563]SourceControl: rm 'Reconstruct/Content/Textures/Two_lane_solid_line_road_cracks_01_2K_Roughness.uasset'
+[2020.04.02-16.23.45:759][743]AssetReimport: Attempting to delete Two_lane_solid_line_road_cracks_01_2K_Roughness (its source file has been removed).
+[2020.04.02-16.23.45:759][743]AssetReimport: Attempting to delete Two_lane_solid_line_road_cracks_01_2K_Base_Color (its source file has been removed).
+[2020.04.02-16.23.56:313][369]Cmd: SELECT NONE
